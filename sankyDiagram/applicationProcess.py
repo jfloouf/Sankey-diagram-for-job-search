@@ -4,7 +4,8 @@ Created on Sun Mar 28 18:48:23 2021
 
 @author: Johannes
 """
-
+import sys,os
+sys.path.append('.')
 from plotly.offline import plot
 import plotly.graph_objects as go
 import pandas as pd
@@ -57,5 +58,5 @@ fig = go.Figure(data=[go.Sankey(
       value =  counts['counts']
 ))])
 
-fig.update_layout(title="Job search year 2021", font_size=14)
+fig.update_layout(title="Job search year 2021", font_size=20)
 plot(fig)

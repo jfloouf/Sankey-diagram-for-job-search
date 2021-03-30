@@ -1,4 +1,4 @@
-# Sankey-diagram-for-job-search
+# Sankey-diagram-for-job-search 📈👔🍎
 > A basic python program to use to visualize a job search progress. Started working on this to get motivation for job search really. Very inagile at the moment but may get there. 
 
 ## General info

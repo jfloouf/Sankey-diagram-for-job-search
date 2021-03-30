@@ -5,7 +5,7 @@
 Started working on this to get motivation for job search really. Very inagile at the moment but may get there. 
 
 ## Example diagram
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./imgs/exDiagram.png)
 
 To-do list:
 * Make .csv-file input an option

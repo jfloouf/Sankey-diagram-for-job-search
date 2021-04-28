@@ -4,8 +4,6 @@ Created on Sun Mar 28 18:48:23 2021
 
 @author: Johannes
 """
-import sys,os
-sys.path.append('.')
 from plotly.offline import plot
 import plotly.graph_objects as go
 import pandas as pd
